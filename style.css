@@ -1,0 +1,9 @@
+.hres:hover{
+    
+background-color: #9255F5;
+transition: all 0.2s ease-in-out 0s;
+}
+.hres{
+    transition: all 0.2s ease-in-out 0s;
+    
+}
